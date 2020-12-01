@@ -48,8 +48,8 @@ for (text of textGroup3) {
 
 //Q9
 let child1 = document.getElementById('child1');
-let div = child1.parentElement
-div.style.backgroundColor = 'lightgreen'
+let div = child1.parentElement;
+div.style.backgroundColor = 'lightgreen';
 
 // Q10
 let box1 = document.getElementById('box1');
